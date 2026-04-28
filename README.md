@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Guganathan</h1>
+<h1 align="center">Hello 👋, I'm Gugan</h1>
 <h3 align="center">focused on building a career in DevOps and Cloud Engineering. I work on automating workflows, deploying applications, and understanding systems end-to-end.</h3>
 
 - 📫 How to reach me **gugann2205@gmail.com**
